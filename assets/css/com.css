@@ -25,6 +25,15 @@ body {
   font-size: 16px;
 }
 
+.fb-comments {
+  border: 1px solid #e9ebee;
+  border-radius: 3px;
+  padding: 0 15px;
+  padding-bottom: 15px;
+  margin: auto;
+  position: relative;
+  color: #4267b2;
+  background-color: white;
 
 }
 
