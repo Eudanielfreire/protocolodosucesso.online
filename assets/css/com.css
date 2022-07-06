@@ -31,7 +31,7 @@ body {
   padding: 0 15px;
   padding-bottom: 15px;
   margin: auto;
-  position: relative;
+  position: initial;
   color: #4267b2;
   background-color: white;
 }
